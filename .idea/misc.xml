@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ssiva/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/btn_shape.xml" value="0.1505" />
+        <entry key="..\:/Users/ssiva/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/constraintlayout1.xml" value="0.186" />
+        <entry key="..\:/Users/ssiva/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/cri.xml" value="0.149" />
+        <entry key="..\:/Users/ssiva/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_avatar_svgrepo_com__2_.xml" value="0.1115" />
+        <entry key="..\:/Users/ssiva/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_baseline_check_24.xml" value="0.1" />
+        <entry key="..\:/Users/ssiva/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_baseline_check_circle_24.xml" value="0.154" />
+        <entry key="..\:/Users/ssiva/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_baseline_check_circle_outline_24.xml" value="0.1" />
+        <entry key="..\:/Users/ssiva/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_baseline_image_24.xml" value="0.1115" />
+        <entry key="..\:/Users/ssiva/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.1115" />
+        <entry key="..\:/Users/ssiva/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_baseline_radio_button_unchecked_24.xml" value="0.1" />
+        <entry key="..\:/Users/ssiva/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/layout_bg.xml" value="0.2555" />
+        <entry key="..\:/Users/ssiva/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/layout_circularedge.xml" value="0.149" />
+        <entry key="..\:/Users/ssiva/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/mybuttonbgshape.xml" value="0.1845" />
+        <entry key="..\:/Users/ssiva/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/newtaskbtn.xml" value="0.1095" />
+        <entry key="..\:/Users/ssiva/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/serachbuttonradius.xml" value="0.186" />
+        <entry key="..\:/Users/ssiva/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/upcommingnumber.xml" value="0.149" />
+        <entry key="..\:/Users/ssiva/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/usershap.xml" value="0.149" />
+        <entry key="..\:/Users/ssiva/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ssiva/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main2.xml" value="0.2" />
+        <entry key="..\:/Users/ssiva/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main3.xml" value="0.264" />
+        <entry key="..\:/Users/ssiva/AndroidStudioProjects/MyApplication/app/src/main/res/layout/layout1.xml" value="0.2359375" />
+        <entry key="..\:/Users/ssiva/AndroidStudioProjects/MyApplication/app/src/main/res/layout/relativelayout_radius_border.xml" value="0.20427350427350427" />
+        <entry key="..\:/Users/ssiva/AndroidStudioProjects/MyApplication/app/src/main/res/layout/rv_item.xml" value="0.6" />
+        <entry key="..\:/Users/ssiva/AndroidStudioProjects/MyApplication/app/src/main/res/menu/bottom_navi_menu.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
